@@ -19,7 +19,7 @@ public class Main
 
         if (partyAffil.equalsIgnoreCase("D"))
         {
-            System.out.println("You chose D. You get a democrat Donkey");
+            System.out.println("You chose D. You get a Democrat Donkey");
         }
         else if (partyAffil.equalsIgnoreCase("R"))
         {
@@ -27,7 +27,7 @@ public class Main
         }
         else if (partyAffil.equalsIgnoreCase("I"))
         {
-            System.out.println("You chose I. You get an independent man");;
+            System.out.println("You chose I. You get an Independent man");;
         }
         //THIS LAST LINE IS A NIGHTMARE. I did things nearly exactly as Professor Wulf did, yet it is rebelling.
         //It thinks that any else needs an if at the end despite it seeming to work like that for Professor Wulf.
